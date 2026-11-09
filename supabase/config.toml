@@ -1,0 +1,5 @@
+[functions.campus-ai]
+verify_jwt = true
+
+[functions.campus-register]
+verify_jwt = false
